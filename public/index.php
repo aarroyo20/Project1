@@ -9,6 +9,9 @@
 <?php
 
 $row = 1;
+
+
+
 if (($handle = fopen("names.csv", "r")) !== FALSE) {
 
     echo '<table class="table table-striped">';
