@@ -1,0 +1,3 @@
+The purpose of this project was to create a php file, with their tests, that created a bootstrap table from a csv file's data.
+
+*Most of the commits are done by Angela because Zalak was having computer troubles. We were both together while we did this project and spit it evenly. The index.php, csv file, .gitignore, composer.json were done and pushed by Angela. The tests and the README were pushed by Zalak and will be noted in future commits. She also contributed to the index.php when writing it.
