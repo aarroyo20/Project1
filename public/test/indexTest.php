@@ -26,4 +26,10 @@ final class nameTest extends TestCase
 
     }
 
+    public function testSrcDirectory(){
+
+        $this->assertDirectoryExists('src');
+
+    }
+
 }
