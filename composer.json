@@ -1,0 +1,13 @@
+{
+    "name": "angela/project1",
+    "description": "CSV file to bootstrap table project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Angela Arroyo",
+            "email": "ara55@njit.edu"
+        }
+    ],
+    "require": {}
+}
